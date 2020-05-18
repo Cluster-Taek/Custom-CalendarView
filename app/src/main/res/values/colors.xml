@@ -5,4 +5,9 @@
     <color name="colorAccent">#D81B60</color>
     <color name="colorPure">#EEEEEE</color>
     <color name="colorSelect">#AAAAAA</color>
+    <color name="colorAmount0">#FFFFFF</color>
+    <color name="colorAmount1">#FFD0D0</color>
+    <color name="colorAmount2">#FF7F7F</color>
+    <color name="colorAmount3">#FF4747</color>
+    <color name="colorAmount4">#FF0000</color>
 </resources>
